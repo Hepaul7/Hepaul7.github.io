@@ -16,9 +16,10 @@ nav_order: 2
 
 [//]: # ()
 [//]: # (</div>)
-# Current Research
 ### Improving the Expected Runtime of Earley's Algorithm with A* Search
 _NLP, Parsing, Algorithms_
+
+This is my current research project.
 
 Consider the objective of the Earley’s algorithm as a search problem, where we want one possible parse of the input string, or declare that it is not recognized.
 In Earley’s algorithm, an item represents a partially completed parse tree. We start the search from a start item, and explore new items iteratively until the goal item is found. As soon as we have found the goal item, we can immediately produce one possible parse tree. Unless we need other parse trees as well, we do not need to explore further.
@@ -26,7 +27,6 @@ For a WCFG, where our search problem still remains the same, we ask the followin
 - Can we find a path from a start item to a goal item quickly?
 - Can we find an optimal path from a start item to a goal item quickly?
 
-# Completed Research
 ### Joint Chinese Word Segmentation and Parts of Speech Tagging with the Transformer
 _NLP, Transformers_
 
