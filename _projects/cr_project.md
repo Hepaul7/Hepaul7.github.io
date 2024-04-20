@@ -7,7 +7,6 @@ category: fun
 related_publications: false
 ---
 Check out the code [here](https://github.com/Hepaul7/Clash-Royale-Matchup-Predictor/tree/master)!
-# Clash Royale Matchup Predictor
 It's basically done - but lots of improvements to the model could be done
 
 I am making this project on my own, for fun (and because I wasted a lot of time on the game in middle school). 

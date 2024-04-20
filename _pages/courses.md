@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /courses/
-title: "Courses"
+title: "courses"
 description: "A list of all the courses I've taken so far (or taking)... Might be the most boring page but check it out if you are interested"
 redirect: false
 nav: true
