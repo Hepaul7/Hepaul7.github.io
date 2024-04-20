@@ -7,9 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
-<div class="publications">
+[//]: # (<!-- _pages/publications.md -->)
 
-{% bibliography %}
+[//]: # (<div class="publications">)
 
-</div>
+[//]: # ()
+[//]: # ({% bibliography %})
+
+[//]: # ()
+[//]: # (</div>)
+
+# Joint Chinese Word Segmentation and Parts of Speech Tagging
+Chinese text analysis presents unique challenges, as words in Chinese sentences are not demarcated, making tasks like part-of-speech (POS) tagging and Chinese word segmentation (CWS) essential preliminary steps. This paper explores the effectiveness using the Transformer architecture to perform joint CWS and POS tagging, where BERT embedding are used to encode contextual information. We were able to achieve strong performances with significantly fewer training resources. 
+[Download PDF (Paper)](assets/pdf/Resume.pdf)
+
+[View code on GitHub](https://github.com/yourusername/yourrepository)
