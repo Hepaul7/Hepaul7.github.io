@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hepaul7
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - SegPosCN
+  - Clash-Royale-Matchup-Predictor
