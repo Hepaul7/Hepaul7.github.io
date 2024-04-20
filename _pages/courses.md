@@ -4,6 +4,8 @@ permalink: /courses/
 title: "Courses"
 description: "A list of all the courses I've taken so far (or taking)... Might be the most boring page but check it out if you are interested"
 redirect: false
+nav: true
+nav_order: 6
 ---
 
 ### 2021 Fall
