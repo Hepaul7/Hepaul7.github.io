@@ -13,6 +13,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a third-year undergraduate student at the University of Toronto studying Computer Science with a focus in Artificial Intelligence. 
-I'm currently doing an exchange year at Swiss Federal Institute of Technology (ETH Zürich).
-In my free time I enjoy skiing, swimming, and flying drones.
+I am a third-year undergraduate Computer Science student at the [University of Toronto](https://web.cs.toronto.edu) with a focus in Artificial Intelligence. 
+I'm currently doing an exchange year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch).
+In my free time I enjoy skiing, swimming, boxing and flying drones. Sometimes I upload my drone footage [here](https://www.youtube.com/@Paul-oe3bq/featured).
+
+Thank you for visiting my website! Feel free to look around or contact me [firstname]dot[lastname]at[mail]dot[utoronto]dot[ca].
