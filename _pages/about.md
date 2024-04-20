@@ -17,4 +17,4 @@ I am a third-year undergraduate Computer Science student at the [University of T
 I'm currently doing an exchange year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch).
 In my free time I enjoy skiing, swimming, boxing and flying drones. Sometimes I upload my drone footage [here](https://www.youtube.com/@Paul-oe3bq/featured).
 
-Thank you for visiting my website! Feel free to look around or contact me [firstname]dot[lastname]at[mail]dot[utoronto]dot[ca].
+Thank you for visiting my website! Feel free to look around or contact me firstname [dot] lastname [at] mail [dot] utoronto [dot] ca.
