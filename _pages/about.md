@@ -14,7 +14,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a third-year undergraduate Computer Science student at the [University of Toronto](https://web.cs.toronto.edu) with a focus in Artificial Intelligence. 
-I'm currently doing an exchange year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch).
+I'm currently doing an exchange year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). You can find all the courses I took during my undergrad so far [here](https://hepaul7.github.io/courses/)
 In my free time I enjoy skiing, swimming, boxing and flying drones. Sometimes I upload my drone footage [here](https://www.youtube.com/@Paul-oe3bq/featured).
 
 Thank you for visiting my website! Feel free to look around or contact me firstname [dot] lastname [at] mail [dot] utoronto [dot] ca.
