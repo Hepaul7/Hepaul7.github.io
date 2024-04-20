@@ -7,7 +7,10 @@ redirect: false
 nav: true
 nav_order: 6
 ---
-
+Note on credits:
+- UofT courses end with Y1 or H1, Y1 = 1.0 FCE and H1 = 0.5 FCE
+- ETHz courses use ECTS
+- 6 ECTS ~ 0.5 FCE
 ### 2021 Fall
 - CSC110Y1: Foundations of Computer Science I
 - MAT137Y1: Calculus with Proofs
