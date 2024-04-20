@@ -19,4 +19,6 @@ very interesting, especially the algorithmic and formal language theory side of 
 
 Outside my studies you'll probably find me skiing, swimming, boxing or flying drones. Sometimes I upload my drone footage [here](https://www.youtube.com/@Paul-oe3bq/featured).
 
-Thank you for visiting my website! Feel free to look around or contact me firstname [dot] lastname [at] mail [dot] utoronto [dot] ca.
+Thank you for visiting my website! Feel free to look around or contact me.
+
+Email: **firstname [dot] lastname [at] mail [dot] utoronto [dot] ca.**
