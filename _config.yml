@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Paul
 middle_name:
 last_name: He
-email: [firstname][lastname]at[mail]dot[utoronto]dot[ca]
+email: \[firstname\]\[lastname\]at\[mail\]dot\[utoronto\]dot\[ca\]
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
 url: https://Hepaul7.github.io # the base hostname & protocol for your site
