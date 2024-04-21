@@ -13,5 +13,5 @@ To be specific, we implemented a Conditional DCGAN. However, due to time constra
 instead of convolutional layers following one of the papers I have read. (I will try this out _soon_)
 
 
-I will include out code once the results are out.
+I will include our code once the results are out.
 
