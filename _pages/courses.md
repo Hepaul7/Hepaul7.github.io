@@ -19,13 +19,13 @@ Note on credits:
 - 263-3710-00L: Machine Perception (8 ECTS, Graduate)
 - 263-5352-00L: Advanced Formal Language Theory (6 ECTS, Graduate)
 - 263-5354-00L: Large Language Models (8 ECTS, Graduate)
-- 
+
 ### 2023 Fall (ETH Zurich)
 - 252-0206-00L: Visual Computing (8 ECTS)
 - 252-3005-00L: Natural Language Processing (7 ECTS, Graduate)
 - 263-5210-00L: Probabilistic Artificial Intelligence (8 ECTS, Graduate)
 - 900-0005-00L: 5 Credit Project (5 ECTS)
-- 
+
 ### 2023 Winter
 - CSC209H1: Software Tools and Systems Programming
 - CSC263H1: Data Structures and Analysis
@@ -36,11 +36,11 @@ Note on credits:
 - CSC258H1: Computer Organization
 - CSC343H1: Introduction to Databases
 - STA247H1: Probability with Computer Applications
-- 
+
 ### 2022 Summer
 - CSC207H1: Software Design
 - MAT224H1: Linear Algebra II
-- 
+
 ### 2022 Winter
 - CSC111H1: Foundations of Computer Science II
 - MAT137Y1: Calculus with Proofs
