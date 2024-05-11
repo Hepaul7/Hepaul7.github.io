@@ -54,7 +54,7 @@ Note on credits:
 - PHY196H1: Emergence in Nature
 - PSY100H1: Introductory Psychology
 
-### Transfer Credits
+### Transfer Credits 
 - MAT136H Calculus II
 - PHY131H Physics I
 - PHY132H Physics II
