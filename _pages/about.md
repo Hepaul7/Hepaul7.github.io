@@ -14,6 +14,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a third-year undergraduate Computer Science student at the [University of Toronto](https://web.cs.toronto.edu) enrolled with a focus in Artificial Intelligence. 
-Right now (2023-2024 academic year), I'm doing an exchange year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I have a strong interest in Machine Learning and NLP.
+I'm (2023-2024 academic year) doing an exchange year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I have a strong interest in Machine Learning and NLP.
 
 Email: **firstname [dot] lastname [at] mail [dot] utoronto [dot] ca.**
