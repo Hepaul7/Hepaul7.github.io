@@ -20,6 +20,7 @@ Note on credits:
 - 263-5352-00L: Advanced Formal Language Theory (6 ECTS, Graduate)
 - 263-5354-00L: Large Language Models (8 ECTS, Graduate)
 - 900-0010-00L: 10 Credit Project (10 ECTS)
+
 ### 2023 Fall (ETH Zurich)
 - 252-0206-00L: Visual Computing (8 ECTS)
 - 252-3005-00L: Natural Language Processing (7 ECTS, Graduate)
