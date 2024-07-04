@@ -14,7 +14,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 I am a third-year undergraduate Computer Science student at the [University of Toronto](https://web.cs.toronto.edu) enrolled with a focus in Artificial Intelligence. 
-I'm also spending a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I have a strong interest in Machine Learning and NLP.
+I'm also spending a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch) and was fortunate to do a project with [rycolab](https://rycolab.io). I have a strong interest in Machine Learning and NLP.
 You can view my CV [here](/assets/pdf/Resume.pdf).
 
 Email: **firstname [dot] lastname [at] mail [dot] utoronto [dot] ca**
