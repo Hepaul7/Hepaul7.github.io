@@ -2,6 +2,8 @@
 <html lang="{{ site.lang }}">
   <!-- Head -->
   <head>
+    <meta name="google-site-verification" content="4HAq5ip-XzoRIm790bso8FuRThD_imyKJktbyj44DBM" />
+
     {% if page.redirect %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
@@ -12,8 +14,10 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
+
     {% include head.liquid %}
   </head>
+
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
