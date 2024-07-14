@@ -3,6 +3,16 @@
   <!-- Head -->
   <head>
     <meta name="google-site-verification" content="4HAq5ip-XzoRIm790bso8FuRThD_imyKJktbyj44DBM" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SC52283D96"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-SC52283D96');
+    </script>
+
+    {% include head.liquid %}
 
     {% if page.redirect %}
       {% if page.redirect == true %}
@@ -14,10 +24,7 @@
       {% endif %}
       <meta http-equiv="refresh" content="3; url={{ redirect }}">
     {% endif %}
-
-    {% include head.liquid %}
   </head>
-
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
