@@ -17,8 +17,8 @@ The third part discusses LLM security.
 
 Please note that these notes are heavily based on the lecturers and lecture notes. All credits go to ETH Zürich, and
 it's original author. These we simply my notes used for studying the course. Feel free to email me if you want it to be removed.
-- [57-paged notes (LaTeX Typed)](assets/pdf/Large_Language_Models_Notes.pdf) (Security Part is Missing!)
-- [Exam Summary (LaTeX Typed)](assets/pdf/llm_cheatsheet_main.pdf)
+- [57-paged notes (LaTeX Typed)](/assets/pdf/Large_Language_Models_Notes.pdf) (Security Part is Missing!)
+- [Exam Summary (LaTeX Typed)](/assets/pdf/llm_cheatsheet_main.pdf)
 
 ### Formal Methods and Functional Programming (ETH Zürich Spring 2024)
 This course is split into Functional Programming (FP) and Formal Methods (FM). The FP part focuses
@@ -29,7 +29,7 @@ model checking, linear temporal logic).
 
 Please note that these notes are heavily based on the lecturers and lecture notes. All credits go to ETH Zürich, and
 it's original author. These we simply my notes used for studying the course. Feel free to email me if you want it to be removed.
-- [63-paged notes (LaTeX Typed)](assets/pdf/FMFP_Notes.pdf)
+- [63-paged notes (LaTeX Typed)](/assets/pdf/FMFP_Notes.pdf)
 
 ### Machine Perception (ETH Zürich Spring 2024)
 This course beings with the fundamental concepts of deep learning, reviewing backpropagation,
