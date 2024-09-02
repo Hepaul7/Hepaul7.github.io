@@ -13,8 +13,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a third-year undergraduate Computer Science student at the [University of Toronto](https://web.cs.toronto.edu) enrolled with a focus in Artificial Intelligence. 
-I'm also spending a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch) and was fortunate to do a project on LLMs and information theory with [rycolab](https://rycolab.io) in the [Institute for Machine Learning](https://ml.inf.ethz.ch). I have a strong interest in Machine Learning and NLP.
+I am a fourth-year undergraduate Computer Science student at the [University of Toronto](https://web.cs.toronto.edu) enrolled with a focus in Artificial Intelligence. 
+I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I was fortunate to do a project on LLMs, information theory, and LLM interpretability with [rycolab](https://rycolab.io) in the [Institute for Machine Learning ETH](https://ml.inf.ethz.ch). I have a strong interest in Machine Learning and NLP.
 You can view my CV [here](/assets/pdf/Resume.pdf).
 
 Email: **firstname [dot] lastname [at] mail [dot] utoronto [dot] ca**

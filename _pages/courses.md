@@ -12,6 +12,12 @@ Note on credits:
 - ETHz: ECTS
 - 0.5 FCE ~ 6 ECTS
 
+### 2024 Fall
+- CSC373H1:	Algorithm Design, Analysis & Complexity
+- CSC485H1:	Computational  Linguistics	
+- MAT237Y1:	Multivariable Calculus with Proofs
+- MAT332H1:	Intro to Graph Theory
+- PCL200H1:	Drugs & the Brain
 
 ### 2024 Winter (ETH Zurich)
 - 252-0064-00L: Computer Networks (7 ECTS)

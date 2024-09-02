@@ -45,7 +45,7 @@ _NLP, Transformers_
 
 Chinese text analysis presents unique challenges, as words in Chinese sentences are not demarcated, making tasks like part-of-speech (POS) tagging and Chinese word segmentation (CWS) essential preliminary steps. This paper explores the effectiveness using the Transformer architecture to perform joint CWS and POS tagging, where BERT embedding are used to encode contextual information. We were able to achieve strong performances with significantly fewer training resources.
 
-[Download PDF (Paper)](/assets/pdf/CWSPOS.pdf)
+[//]: # ([Download PDF &#40;Paper&#41;]&#40;/assets/pdf/CWSPOS.pdf&#41;)
 
 [View code on GitHub](https://github.com/Hepaul7/SegPosCN)
 
