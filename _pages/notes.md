@@ -8,6 +8,29 @@ nav: true
 nav_order: 7
 ---
 A subset of my notes for a subset of the courses I took.
+
+### Large Language Models (ETH Zürich Spring 2024)
+The course is split into three parts. The first part starts with the probabilistic
+foundations of language models, covering what constitutes a language formally and theoretically. 
+The second part covers many of the architectures, prompting, transfer-learning, RLHF, RAG, Parameter Efficient Finetuning.
+The third part discusses LLM security.
+
+Please note that these notes are heavily based on the lecturers and lecture notes. All credits go to ETH Zürich, and
+it's original author. These we simply my notes used for studying the course. Feel free to email me if you want it to be removed.
+- [57-paged notes (LaTeX Typed)](assets/pdf/Large_Language_Models_Notes.pdf) (Security Part is Missing!)
+- [Exam Summary (LaTeX Typed)](assets/pdf/llm_cheatsheet_main.pdf)
+
+### Formal Methods and Functional Programming (ETH Zürich Spring 2024)
+This course is split into Functional Programming (FP) and Formal Methods (FM). The FP part focuses
+on designing and reasoning about functional programs (Haskell), covering the lambda calculus,
+higher-order programming, typing, proofs of correctness. The FP part focuses on deductive and algorithmic 
+validation of programs modeled as transition systems (big/small-step semantics, axiomatic semantics,
+model checking, linear temporal logic).
+
+Please note that these notes are heavily based on the lecturers and lecture notes. All credits go to ETH Zürich, and
+it's original author. These we simply my notes used for studying the course. Feel free to email me if you want it to be removed.
+- [63-paged notes (LaTeX Typed)](assets/pdf/FMFP_Notes.pdf)
+
 ### Machine Perception (ETH Zürich Spring 2024)
 This course beings with the fundamental concepts of deep learning, reviewing backpropagation,
 convolutional neural networks and recurrent neural networks. Then, we begin with Generative Models (the core of the course),
@@ -15,7 +38,7 @@ diving into Variational AutoEncoders, Autoregressive models such as
 MADE, NADE, and covering Attention&Transformers. We then moved onto Generative Adversarial Networks and Diffusion Models.
 Then, we moved more into deep learning for computer vision Neural Implicit Surfaces, NERFs, Gaussian Splatting, and how
 to represent human body's with Parametric Human Models (SMPL). Finally, we concluded with Reinforcement Learning.
-- [75-paged notes LaTeX](/assets/pdf/Machine_Perception_Notes.pdf) (May contain typos)
+- [75-paged notes  (LaTeX Typed)](/assets/pdf/Machine_Perception_Notes.pdf) (May contain typos)
 - [Exam Summary (iPad)](/assets/pdf/MP%20Aid.pdf)
 
 ### Probabilistic Artificial Intelligence (ETH Zürich Fall 2023)
@@ -38,4 +61,4 @@ This course is split into a Vision and Graphics part. The vision part starts wit
 segmentation, Fourier Transform, optical flow, Image/Video Compression, PCA, Convolutional Neural Networks and Radon Transform.
 The graphics part covers the graphics pipeline, and also goes into Bezier/B-spline curves for
 animation, surfaces and ray tracing. 
-- [Exam Summary (LaTeX)](/assets/pdf/VisComp_CheatSheet.pdf)
+- [Exam Summary (LaTeX Typed)](/assets/pdf/VisComp_CheatSheet.pdf)

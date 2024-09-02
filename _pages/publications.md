@@ -17,8 +17,7 @@ nav_order: 2
 [//]: # ()
 [//]: # (</div>)
 
-### Current Research
-I have two ongoing research projects and papers roughly on the topics of
+### Current Research Projects
 1. Earley's Algorithm, Parsing, Runtime
 2. Large Language Models, Attention, Information Theory
 
