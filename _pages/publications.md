@@ -23,7 +23,7 @@ nav_order: 2
 ### Speeding up Earley's Algorithm with A* Search
 Earley's algorithm can parse unrestricted context-free grammar in $\mathcal{O}(N^3|\mathcal{G}||\mathcal{P}|)$ runtime. In this paper, we reformulate Earley's algorithm as a search problem and introduce the application of A* heuristics to enhance the efficiency of the parser. Our approach leverages the strength of A* search to prune the search space effectively, thus accelerating the parsing procedure while still being complete and finite. We provide a detailed description of our formulation, discuss the impact of different heuristics on the algorithm's performance, and present empirical results to demonstrate the improvements achieved.
 (Author ordering is random).
-[Download PDF (Paper)](/assets/pdf/A*Earley.pdf)
+[Download PDF (Paper)](/assets/pdf/A_star_Earley.pdf)
 
 [//]: # (### Improving the Expected Runtime of Earley's Algorithm with A* Search)
 
