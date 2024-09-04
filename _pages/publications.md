@@ -18,8 +18,12 @@ nav_order: 2
 [//]: # (</div>)
 
 ### Current Research Projects
-1. Earley's Algorithm, Parsing, Runtime
-2. Large Language Models, Attention, Information Theory
+1. Large Language Models, Attention, Information Theory
+
+### Speeding up Earley's Algorithm with A* Search
+Earley's algorithm can parse unrestricted context-free grammar in $\mathcal{O}(N^3|\mathcal{G}||\mathcal{P}|)$ runtime. In this paper, we reformulate Earley's algorithm as a search problem and introduce the application of A* heuristics to enhance the efficiency of the parser. Our approach leverages the strength of A* search to prune the search space effectively, thus accelerating the parsing procedure while still being complete and finite. We provide a detailed description of our formulation, discuss the impact of different heuristics on the algorithm's performance, and present empirical results to demonstrate the improvements achieved.
+(Author ordering is random).
+[Download PDF (Paper)](assets/pdf/A*Earley.pdf)
 
 [//]: # (### Improving the Expected Runtime of Earley's Algorithm with A* Search)
 
@@ -40,7 +44,8 @@ nav_order: 2
 [//]: # (- Can we find an optimal path from a start item to a goal item quickly?)
 
 ### Joint Chinese Word Segmentation and Parts of Speech Tagging with the Transformer
-_NLP, Transformers_
+
+[//]: # (_NLP, Transformers_)
 
 Chinese text analysis presents unique challenges, as words in Chinese sentences are not demarcated, making tasks like part-of-speech (POS) tagging and Chinese word segmentation (CWS) essential preliminary steps. This paper explores the effectiveness using the Transformer architecture to perform joint CWS and POS tagging, where BERT embedding are used to encode contextual information. We were able to achieve strong performances with significantly fewer training resources.
 
