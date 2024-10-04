@@ -4,7 +4,7 @@ permalink: /notes/
 title: "my notes"
 description: "some notes, cheatsheets and summaries"
 redirect: false
-nav: true
+nav: false
 nav_order: 7
 ---
 A subset of my notes for a subset of the courses I took.

@@ -2,7 +2,7 @@
 layout: page
 permalink: /courses/
 title: "courses"
-description: "A list of all the courses I've taken so far (or taking)... Might be the most boring page but check it out if you are interested"
+description: "If you are interested in my background, here is a list of all the courses I've taken so far (or taking)."
 redirect: false
 nav: true
 nav_order: 6
@@ -14,7 +14,8 @@ Note on credits:
 
 ### 2024 Fall
 - CSC373H1:	Algorithm Design, Analysis & Complexity
-- CSC485H1:	Computational  Linguistics	
+- CSC485H1:	Computational Linguistics	
+- CSC495H1: Computer Science Project
 - MAT237Y1:	Multivariable Calculus with Proofs
 - MAT332H1:	Intro to Graph Theory
 - PCL200H1:	Drugs & the Brain
