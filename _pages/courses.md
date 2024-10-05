@@ -8,10 +8,14 @@ redirect: false
 nav: true
 nav_order: 6
 ---
-_As a note, I absolutely messed up second year due to personal reasons, and ever since I've
-been trying my best to recover from it. This means I took courses at 
-ETH without having the proper background or prerequisites so I spent a lot of time trying to fill
-in the gaps I made in second year._ 
+
+[//]: # (_As a note, I absolutely messed up second year due to personal reasons, and ever since I've)
+
+[//]: # (been trying my best to recover from it. This means I took courses at )
+
+[//]: # (ETH without having the proper background or prerequisites so I spent a lot of time trying to fill)
+
+[//]: # (in the gaps I made in second year._ )
 # My notes
 A subset of my notes for a subset of the courses I took.
 
