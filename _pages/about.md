@@ -18,3 +18,8 @@ I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](htt
 You can view my CV [here](/assets/pdf/Resume.pdf).
 
 Email: ```hepaul [at] cs [dot] toronto [dot] edu```
+
+
+
+
+
