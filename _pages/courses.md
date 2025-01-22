@@ -18,7 +18,7 @@ course instructors. These we simply my notes used for studying the course. Feel 
 - [63-paged notes (LaTeX Typed)](/assets/pdf/FMFP_Notes.pdf)
 
 **Machine Perception (ETH Zürich Spring 2024)**
-- [63-paged notes (LaTeX Typed)](/assets/pdf/FMFP_Notes.pdf)
+- [75-paged notes  (LaTeX Typed)](/assets/pdf/Machine_Perception_Notes.pdf) 
 - [Exam Summary (iPad)](/assets/pdf/MP%20Aid.pdf)
 
 
