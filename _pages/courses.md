@@ -10,6 +10,9 @@ nav_order: 6
 Please note that these notes are heavily based on the lecturers and lecture notes. All credits go to
 course instructors. These we simply my notes used for studying the course. Feel free to email me if you want it to be removed.
 
+**Introduction to Graph Theory (University of Toronto Fall 2024)**
+ - [47-paged notes (LaTeX Typed)](/assets/pdf/Graph_Theory_Notes-3.pdf) (Zarankiewicz problem not included, so proofs omitted.)
+
 **Large Language Models (ETH Zürich Spring 2024)**
   - [57-paged notes (LaTeX Typed)](/assets/pdf/Large_Language_Models_Notes.pdf) (Security Part is Missing!)
   - [Exam Summary (LaTeX Typed)](/assets/pdf/llm_cheatsheet_main.pdf)
