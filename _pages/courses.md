@@ -10,26 +10,28 @@ nav_order: 6
 Please note that these notes are heavily based on the lecturers and lecture notes. All credits go to
 course instructors. These we simply my notes used for studying the course. Feel free to email me if you want it to be removed.
 
+** denotes a graduate level course.
+
 **Introduction to Graph Theory (University of Toronto Fall 2024)**
  - [47-paged notes (LaTeX Typed)](/assets/pdf/Graph_Theory_Notes-3.pdf) (Zarankiewicz problem not included, so proofs omitted.)
 
-**Large Language Models (ETH Zürich Spring 2024)**
+**Large Language Models (ETH Zürich Spring 2024)** **
   - [57-paged notes (LaTeX Typed)](/assets/pdf/Large_Language_Models_Notes.pdf) (Security Part is Missing!)
   - [Exam Summary (LaTeX Typed)](/assets/pdf/llm_cheatsheet_main.pdf)
   
 **Formal Methods and Functional Programming (ETH Zürich Spring 2024)**
 - [63-paged notes (LaTeX Typed)](/assets/pdf/FMFP_Notes.pdf)
 
-**Machine Perception (ETH Zürich Spring 2024)**
+**Machine Perception (ETH Zürich Spring 2024)** **
 - [75-paged notes  (LaTeX Typed)](/assets/pdf/Machine_Perception_Notes.pdf) 
 - [Exam Summary (iPad)](/assets/pdf/MP%20Aid.pdf)
 
 
-**Probabilistic Artificial Intelligence (ETH Zürich Fall 2023)**
+**Probabilistic Artificial Intelligence (ETH Zürich Fall 2023)** **
 - [Exam Summary (iPad)](/assets/pdf/paisummary.pdf)
 
 
-**Natural Language Processing  (ETH Zürich Fall 2023)**
+**Natural Language Processing  (ETH Zürich Fall 2023)** **
 - [Exam Summary (iPad)](/assets/pdf/nlpsummary.pdf) 
 
 
