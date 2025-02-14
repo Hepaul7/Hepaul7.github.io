@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>a random website</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 80px auto;
+            padding: 0 20px;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            font-size: 16px;
+            margin-top: 20px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        .no {
+            background-color: red;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        #message {
+            margin-top: 20px;
+        }
+
+        #confetti-canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: -10;
+        }
+
+        footer {
+            margin-top: 200px;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding-top: 50px;
+            }
+
+            h1 {
+                font-size: 23px;
+                margin-bottom: 10px;
+            }
+
+            button {
+                padding: 8px 16px;
+                font-size: 14px;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div id="que">
+            <button onclick="startQuestions()">Start</button>
+        </div>
+
+        <div id="questions" class="hidden">
+            <p>Will you go out with me?</p>
+            <button id="yesButton" onclick="answerYes()">Yes</button>
+            <button class="no" onclick="answerNo()">No</button>
+        </div>
+
+        <div id="questions2" class="hidden">
+            <p>Are you really sure? 🥺</p>
+            <button class="no" onclick="areYousure()">No</button>
+        </div>
+
+        <div id="message" class="hidden">
+            <h2 id="init"></h2>
+            <p id="messageText"></p>
+        </div>
+    </div>
+
+    <canvas id="confetti-canvas"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/confetti-js"></script>
+    <script>
+        let noButtonSize = 16; // Initial font size
+        let yesButtonSize = 16; // Initial font size
+
+        function startQuestions() {
+            document.getElementById("questions").style.display = "block";
+            document.getElementById("que").style.display = "none"; // Hide initial buttons
+        }
+
+        function answerYes() {
+            document.getElementById("questions").style.display = "none";
+            document.getElementById("questions2").style.display = "none";
+            document.getElementById("init").innerText = "hehe yay";
+            document.getElementById("message").style.display = "block";
+            document.getElementById("messageText").innerText = "okie I will see you on the 24th!";
+
+            document.getElementById("yesButton").style.display = "none";
+            document.querySelectorAll(".no").forEach(button => button.style.display = "none");
+
+            resetNoButtonSize();
+
+            showConfetti();
+        }
+
+        function answerNo() {
+            document.getElementById("questions").style.display = "block";
+            // document.getElementById("questions2").style.display = "block";
+            shrinkNoButton();
+            growYesButton();
+        }
+
+        function areYousure() {
+            // document.getElementById("questions2").style.display = "none";
+            document.getElementById("questions").style.display = "block";
+            shrinkNoButton();
+            growYesButton();
+        }
+
+        function resetNoButtonSize() {
+            noButtonSize = 16;
+            let noButtons = document.querySelectorAll(".no");
+            noButtons.forEach(button => {
+                button.style.fontSize = noButtonSize + "px";
+                button.style.padding = (noButtonSize / 4) + "px";
+                button.innerText = "No";
+                button.disabled = false;
+            });
+
+            yesButtonSize = 16;
+            document.getElementById("yesButton").style.fontSize = yesButtonSize + "px";
+        }
+
+        function shrinkNoButton() {
+            let noButtons = document.querySelectorAll(".no");
+            noButtonSize *= 0.8;
+            noButtons.forEach(button => {
+                button.style.fontSize = noButtonSize + "px";
+                button.style.padding = (noButtonSize / 4) + "px";
+            });
+
+            if (noButtonSize < 5) {
+                noButtons.forEach(button => {
+                    button.innerText = "hehe too late";
+                    button.disabled = true;
+                });
+            }
+        }
+
+        function growYesButton() {
+            let yesButton = document.getElementById("yesButton");
+            yesButtonSize *= 2.0;
+            yesButton.style.fontSize = yesButtonSize + "px";
+        }
+
+        function showConfetti() {
+            const confettiSettings = {
+                target: 'confetti-canvas',
+                respawn: true,
+                colors: ['#ff0000', '#00ff00', '#0000ff'],
+            };
+
+            const confetti = new ConfettiGenerator(confettiSettings);
+            confetti.render();
+            setTimeout(() => {
+                confetti.clear();
+            }, 5000);
+        }
+    </script>
+
+</body>
+</html>
