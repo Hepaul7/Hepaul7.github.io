@@ -18,7 +18,7 @@ I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](htt
 I'm currently working on Causal LLMs with Professor [Zhijing Jin](https://zhijing-jin.com/home/) and theoretical limitations
 of the Transformer with Professor [Gerald Penn](http://www.cs.toronto.edu/~gpenn/).
 
-You can view a simplified version of my CV [here](/assets/pdf/Resume.pdf).
+You can view my resume [here](/assets/pdf/Resume.pdf) and my academic CV [here](assets/pdf/CV_Academic.pdf).
 
 Email: ```hepaul [at] cs [dot] toronto [dot] edu```
 
