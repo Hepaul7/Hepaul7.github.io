@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 
 I recently finished my undergraduate in Computer Science at the [University of Toronto](https://web.cs.toronto.edu).
 I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I was fortunate to do a project on LLMs, information theory, and LLM interpretability with [rycolab](https://rycolab.io) at the [Institute for Machine Learning ETH](https://ml.inf.ethz.ch), and Combinatory Categorial Grammar Parsing with Professor [Gerald Penn](http://www.cs.toronto.edu/~gpenn/). I have a strong interest in Machine Learning and NLP.
-I'm currently working on Causal LLMs with Professor [Zhijing Jin](https://zhijing-jin.com/home/). I am an incoming Applied Scientist at Amazon Web Services (AWS).
+I'm currently working on Causal LLMs with Professor [Zhijing Jin](https://zhijing-jin.com/home/). I am an Applied Scientist at Amazon Web Services (AWS).
 
 You can view my CV [here](assets/pdf/CV_Academic.pdf)(Last Updated: 08.10.2025), and my google scholar [here](https://scholar.google.com/citations?user=GHzro5kAAAAJ&hl=en)
 
