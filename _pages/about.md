@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -19,10 +19,6 @@ I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](htt
 You can view my CV [here](assets/pdf/CV_Academic.pdf)(Last Updated: 08.10.2025), and my google scholar [here](https://scholar.google.com/citations?user=GHzro5kAAAAJ&hl=en)
 
 Email: ```hepaul [at] cs [dot] toronto [dot] edu```
-
-
-
-
 
 
 
