@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 I recently finished my undergraduate in Computer Science at the [University of Toronto](https://web.cs.toronto.edu).
 I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I am an Applied Scientist II at Amazon Web Services (AWS) working on LLM Reliability.
 
-You can view my CV [here](assets/pdf/CV_Academic.pdf)(Last Updated: 08.10.2025), and my google scholar [here](https://scholar.google.com/citations?user=GHzro5kAAAAJ&hl=en).
+You can view my CV [here](assets/pdf/CV_Academic.pdf)(Last Updated: 30.12.2025), and my google scholar [here](https://scholar.google.com/citations?user=GHzro5kAAAAJ&hl=en).
 
 Email: ```hepaul [at] cs [dot] toronto [dot] edu```
 
