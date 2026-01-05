@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Paul He
-#    - name: Date of Birth
-#      value: 14th March 1879
+    #    - name: Date of Birth
+    #      value: 14th March 1879
     - name: Languages
       value: English, German, Mandarin
 
@@ -21,7 +21,6 @@
       year: 2023-2024
       description:
         - Exchange Scholarship Awarded
-
 #- title: Experience
 #  type: time_table
 #  contents:

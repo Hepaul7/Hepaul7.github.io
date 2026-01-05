@@ -3,7 +3,7 @@
     "name": "Paul He",
     "image": "",
     "email": "[firstname.lastname][at][mail][dot][utoronto][dot][ca]",
-    "url": "https://hepaul7.github.io",
+    "url": "https://hepaul7.github.io"
   },
   "education": [
     {
@@ -17,7 +17,7 @@
       "score": "3.59",
       "courses": ["Introduction to Machine Learning"]
     },
-        {
+    {
       "institution": "Swiss Federal Institute of Technology",
       "location": "Zurich, Switzerland",
       "url": "https://www.ethz.ch",
@@ -26,8 +26,14 @@
       "startDate": "2023-09-18",
       "endDate": "2024-08-30",
       "score": "5.1",
-      "courses": ["Probabilistic Artificial Intelligence", "Natural Language Processing", "Visual Computing",
-      "Advanced Formal Language Theory", "Machine Perception", "Large Language Models"]
+      "courses": [
+        "Probabilistic Artificial Intelligence",
+        "Natural Language Processing",
+        "Visual Computing",
+        "Advanced Formal Language Theory",
+        "Machine Perception",
+        "Large Language Models"
+      ]
     }
   ],
   "awards": [
@@ -67,7 +73,6 @@
       "fluency": "Advanced",
       "icon": ""
     }
-
   ],
   "projects": [
     {

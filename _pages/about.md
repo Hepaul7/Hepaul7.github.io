@@ -18,9 +18,7 @@ I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](htt
 
 You can view my CV [here](assets/pdf/CV_Academic.pdf)(Last Updated: 04.Jan.2026), and my google scholar [here](https://scholar.google.com/citations?user=GHzro5kAAAAJ&hl=en).
 
-Email: ```hepaul [at] cs [dot] toronto [dot] edu```
-
-
+Email: `hepaul [at] cs [dot] toronto [dot] edu`
 
 <!-- I was fortunate to do a project on LLMs, information theory, and LLM interpretability with [rycolab](https://rycolab.io) at the [Institute for Machine Learning ETH](https://ml.inf.ethz.ch), and Combinatory Categorial Grammar Parsing with Professor [Gerald Penn](http://www.cs.toronto.edu/~gpenn/). I have a strong interest in Machine Learning and NLP.
 I'm currently working on Causal LLMs with Professor [Zhijing Jin](https://zhijing-jin.com/home/). -->

@@ -6,6 +6,7 @@ importance: 1
 category: work
 related_publications: false
 ---
+
 _current project_ :)
 
 Predicting how human motion evolves in the short-term future is a task that has many applications in human-computer interaction, computer vision, or robotics and is an important building block in systems used for autonomous navigation (e.g. self-driving cars).

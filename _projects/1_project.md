@@ -12,6 +12,4 @@ We developed a generative model (GAN) capable of creating high-quality Street Vi
 To be specific, we implemented a Conditional DCGAN. However, due to time constraints I would still like to experiment using Attention layers
 instead of convolutional layers following one of the papers I have read. (I will try this out _soon_)
 
-We ended up being first place and qualified for the European round. 
-
-
+We ended up being first place and qualified for the European round.
