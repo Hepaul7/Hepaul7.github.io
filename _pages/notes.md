@@ -5,7 +5,7 @@ title: "my notes"
 description: "some notes, cheatsheets and summaries"
 redirect: false
 nav: false
-nav_order: 7
+nav_order: 2
 ---
 A subset of my notes for a subset of the courses I took.
 
