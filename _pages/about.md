@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 <!-- 
 I recently finished my undergraduate in Computer Science at the [University of Toronto](https://web.cs.toronto.edu).
 I also spent a year at [Swiss Federal Institute of Technology (ETH Zürich)](https://inf.ethz.ch). I worked briefly as an Applied Scientist II at Amazon Web Services (AWS) on LLM Reliability before beginning by PhD  -->
-I am a PhD student in Computer Science at Nanyang Technological University, Singapore, where I study reliability in large language models with a focus on methods that offer provable guarantees. Prior to this, I completed my BSc in Computer Science (Honours) at the University of Toronto and spent a year at ETH Zürich taking graduate-level courses in machine learning and NLP. I also worked as an Applied Scientist at AWS, where I conducted research on LLM reliability and evaluation in production systems.
+I am a PhD student in Computer Science at Nanyang Technological University (NTU), Singapore, where I study reliability in large language models with a focus on methods that offer provable guarantees. Prior to this, I completed my BSc in Computer Science (Honours) at the University of Toronto and spent a year at ETH Zürich taking graduate-level courses in machine learning and NLP. I also worked as an Applied Scientist at AWS, where I conducted research on LLM reliability and evaluation in production systems.
 
 You can view my CV [here](assets/pdf/CV_Academic.pdf)(Last Updated: 04.Jan.2026), and my google scholar [here](https://scholar.google.com/citations?user=GHzro5kAAAAJ&hl=en).
 
