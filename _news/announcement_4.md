@@ -6,3 +6,4 @@ related_posts: true
 ---
 
 Uncovering Hidden Correctness in LLM Causal Reasoning via Symbolic Verification has been accepted to EACL (main)!
+Preprint [here](https://arxiv.org/abs/2601.21210).
