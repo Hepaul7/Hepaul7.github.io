@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-1 Paper Accepted at **EMNLP Main**!!
+1 Paper Accepted at **EMNLP Main** (Global Consistency Repair)!
