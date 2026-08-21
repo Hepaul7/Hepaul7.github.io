@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-Global Consistency Repair for Natural-Language Claim Sets Accepted to **EMNLP Main**
+1 Paper Accepted at **EMNLP Main**!!
